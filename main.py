@@ -29,4 +29,4 @@ class AvrxtBot(commands.Bot):
 bot = AvrxtBot()
 
 # Replace with your actual token
-bot.run('YOUR_BOT_TOKEN_HERE')
+bot.run('MTQ2NjExNzk4NTUyODcxMzM4Mw.GBA8MK.RfgCq5qtx2yYThdHl1KtKWv9Gec_YLg301OiVY')
